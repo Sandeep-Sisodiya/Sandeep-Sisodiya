@@ -37,9 +37,9 @@ I build high-performance, cross-platform mobile apps using **Flutter & Dart**, f
 
 
 ## 🏅 Achievements & Certifications
-- **TCS CodeVita — Season 12** (Competitive programming)  
+- **TCS CodeVita — Season 12** (Competitive programming completion certificate)  
 - **Palo Alto Networks — Cybersecurity (Intro)**  
-- **LeetCode**: 350+ problems solved (DSA practice)  
+- **LeetCode**: 350+ problems solved with longest streak of 116 (DSA practice)  
 
 ---
 

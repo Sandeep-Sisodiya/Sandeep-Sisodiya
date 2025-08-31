@@ -81,7 +81,7 @@ I build high-performance, cross-platform mobile apps using **Flutter & Dart**, f
 ---
 ## 📄 Resume  
 
-<a href="https://drive.google.com/file/d/1oka9q4YNiAok3trUzz-kc43TIzQZxZez/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1ipTYrT3eGsMAJ4cowFwt7-ifUPwvaJnO/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
 </a>
 

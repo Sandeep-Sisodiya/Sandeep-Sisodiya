@@ -13,7 +13,7 @@
 
 # 👋 Hi, I'm **Sandeep Sisodiya**
 
-**Flutter Developer · Mobile Apps · Open-Source Contributor**
+**Flutter Developer · Mobile Apps**
 
 I build high-performance, cross-platform mobile apps using **Flutter & Dart**, focusing on elegant UI, offline-first behavior, and scalable cloud workflows (Firebase / Appwrite). I enjoy solving real-world problems, improving app performance, and contributing to open-source.
 

@@ -22,7 +22,7 @@ I build high-performance, cross-platform mobile apps using **Flutter & Dart**, f
 ## 🔭 What I do-
 - Build responsive, production-ready mobile apps with **Flutter**.  
 - Integrate secure authentication, realtime databases, and offline-first storage.  
-- Optimize app performance and UX across devices.  
+- Optimize app performance and UX across device.  
 - Automate builds & tests using CI/CD for reliable releases.
 
 ---

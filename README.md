@@ -22,16 +22,16 @@ I build high-performance, cross-platform mobile apps using **Flutter and Dart**,
 ## 🔭 What I do-
 - Build responsive, production-ready mobile apps with **Flutter**.  
 - Integrate secure authentication, realtime databases, and offline-first storage.  
-- Optimize app performance and UX across device.  
-- Automate builds & tests using CI/CD for reliable releases.
+- Optimize app performance and UX across device. 
 
 ---
 
 ## 🛠️ Tech & Tools
 - **Mobile:** Flutter, Dart  
-- **Backend / Cloud:** Firebase, Appwrite, SQLite  
+- **Backend / Cloud:** Firebase, Supabase, Appwrite, SQLite  
 - **State & Architecture:** Provider, Riverpod
 - **Dev Tools:** VS Code, Android Studio, Git, GitHub Actions, Postman
+- **DSA:** JAVA 
 
 ---
 
@@ -39,7 +39,7 @@ I build high-performance, cross-platform mobile apps using **Flutter and Dart**,
 ## 🏅 Achievement & Certifications
 - **TCS CodeVita — Season 12** (Competitive programming completion certificate)  
 - **Palo Alto Networks — Cybersecurity (Intro)**  
-- **LeetCode**: 350+ problems solved with longest streak of 116 (DSA practice in JAVA)  
+- **LeetCode**: 450+ problems solved with longest streak of 116 (DSA practice in JAVA)  
 
 ---
 
@@ -81,7 +81,7 @@ I build high-performance, cross-platform mobile apps using **Flutter and Dart**,
 ---
 ## 📄 Resume  
 
-<a href="https://drive.google.com/file/d/15ghAOgl-L5aOI1cSMQ8mxyfHtVcf2tj5/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1TuFo80toa6hHH60Utfg1y-fUQHdwdKPC/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
 </a>
 

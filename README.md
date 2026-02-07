@@ -39,7 +39,10 @@ I build high-performance, cross-platform mobile apps using **Flutter and Dart**,
 ## 🏅 Achievement & Certifications
 - **TCS CodeVita — Season 12** (Competitive programming completion certificate)  
 - **Palo Alto Networks — Cybersecurity (Intro)**  
-- **LeetCode**: 450+ problems solved with longest streak of 116 (DSA practice in JAVA)  
+- **LeetCode**: 450+ problems solved with longest streak of 116 (DSA practice in JAVA)
+- **Gemini & Firebase Studio Buildathon** (Individual Hackathon, Sep 2025) — Top 5 Individuals; awarded 100% scholarship for DevOps Ninja Learning Pass  
+- **AWS Cloud Practitioner — Foundational** (Scholarship recipient)  
+- **Oracle Academy — SQL Certification**    
 
 ---
 

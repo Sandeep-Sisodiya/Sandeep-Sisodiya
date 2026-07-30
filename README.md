@@ -11,7 +11,7 @@
 
 </p>
 
-# 👋 Hi, I'm **Sandeep Sisodiya**
+# 👋 Hi, I am **Sandeep Sisodiya**
 
 **Flutter Developer -> Mobile Apps**
 

@@ -9,16 +9,14 @@
 
 ### 🚀 Flutter Developer • Full-Stack Developer • AI Enthusiast
 
-<p>
-  <b>Building scalable mobile apps, backend systems, and AI-powered products.</b>
-</p>
+<p><b>Building scalable mobile apps, backend systems, and AI-powered products.</b></p>
 
 <p>
   <a href="https://www.linkedin.com/in/sandeep-sisodiya-830114298/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sandeepsisodiya16092004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -28,203 +26,149 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
 
 **Mobile:** Flutter, Dart  
 **State Management:** Provider, GetX, BLoC  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, PostgreSQL, SQLite, Redis, Firebase / Firestore  
-**AI:** Gemini API, AI-powered applications  
+**Backend:** Node.js, Express.js, TypeScript, REST APIs  
+**Databases:** MongoDB, PostgreSQL, SQLite, Firebase / Firestore  
+**AI:** Gemini API, RAG, Agentic AI  
 **Authentication:** Firebase Authentication, JWT, bcrypt  
 **DevOps:** Docker, Docker Compose, GitHub Actions, CI/CD  
-**Tools:** Git, GitHub, Postman, Android Studio, VS Code, IntelliJ IDEA, Figma
+**Tools:** Git, GitHub, Postman, Android Studio, VS Code, Figma
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science undergraduate at KIET Group of Institutions** with a strong focus on **Flutter development, backend engineering, and AI-powered applications**.
-
-I enjoy turning ideas into production-ready applications — from polished mobile interfaces and real-time systems to REST APIs, cloud integrations, and AI-powered experiences.
+I'm a **Computer Science undergraduate at KIET Group of Institutions**, focused on Flutter development, backend engineering, and AI-powered applications.
 
 - 🎓 **B.Tech Computer Science** — KIET Group of Institutions
 - 📊 **GPA:** 8.20
-- 📱 Flutter & Dart developer
-- ⚙️ Building full-stack applications with **Node.js, Express.js & MongoDB**
-- 🤖 Exploring **AI-powered application development**
-- ☁️ Experience with **Firebase, AWS & cloud technologies**
-- 🔧 Interested in **scalable architectures, CI/CD & developer tooling**
-- 🧩 Strong interest in **DSA & competitive programming using Java**
+- 📱 Building cross-platform mobile applications with Flutter
+- ⚙️ Developing backend services and REST APIs
+- 🤖 Exploring GenAI, RAG, and agentic workflows
+- ☁️ Working with Firebase, AWS, and cloud technologies
+- 🧩 Practicing DSA and competitive programming using Java
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Experience
 
-## 🧠 AI Therapy — Adaptive AI Mental Wellness Companion
+### 📱 Android Developer & Backend Developer Intern — Axious Labs
 
-> **AI-powered mental wellness companion focused on accessibility and personalized conversations.**
+**2026 – Present** · Remote *(update dates and location type if needed)*
 
-Built as part of the **Gemini & Firebase Studio Buildathon**, this application combines conversational AI with structured therapeutic frameworks to provide adaptive and emotionally aware interactions.
+- Developing **CareerAI**, an AI-powered career intelligence platform.
+- Building Flutter features and backend REST APIs using Node.js, TypeScript, Express.js, Prisma, and PostgreSQL.
+- Collaborating on AI integrations, database operations, testing, and CI/CD.
 
-### ✨ Highlights
-
-- Integrated **Gemini API**
-- Built a **3,500+ word dynamic base prompt**
-- Prompt dynamically adapts using **CBT + DBT frameworks**
-- Designed personalized, emotion-aware conversations
-- Firebase Authentication
-- Cloud Firestore
-- Material Design UI
-- Built completely with Flutter
-
-**Tech:** `Flutter` `Dart` `Gemini API` `Firebase Auth` `Cloud Firestore` `GetX`
-
----
-
-## 📊 DevTrack — Full-Stack Project & Workflow Management Platform
-
-> **A complete project management platform with authentication, task workflows, dashboards and CI/CD.**
-
-### ✨ Highlights
-
-- JWT-based authentication
-- Secure password hashing using **bcrypt**
-- **10+ RESTful API endpoints**
-- Project and task management
-- Kanban-style workflow tracking
-- **4+ dashboard metrics**
-- Docker containerization
-- Docker Compose
-- GitHub Actions CI/CD
-- Automated testing & Flutter analysis
-
-**Tech:** `Flutter` `Node.js` `Express.js` `MongoDB` `JWT` `Docker` `GitHub Actions`
-
----
-
-## 🗺️ Backtrack — Real-Time GPS Route Tracking & Navigation
-
-> **Offline-first GPS route tracking and navigation application built with Flutter.**
-
-### ✨ Highlights
-
-- Real-time GPS path tracking
-- Tracking accuracy of approximately **5 meters**
-- Unlimited local path storage
-- Offline access to stored routes
-- Path sharing as `.jpg` images
-- Firebase Authentication
-- Route history logging
-- Optimized for **500+ concurrent users**
-- Maps API integration
-
-**Tech:** `Flutter` `Dart` `Firebase` `Maps API` `SQLite` `Geolocator`
-
----
-
-# 💼 Experience
+**Tech:** `Flutter` `Node.js` `TypeScript` `PostgreSQL` `GenAI` `Docker`
 
 ### 📱 Flutter Development Intern — Null Classes
+
 **Dec 2025 – Jan 2026**
 
-- Enhanced a WhatsApp-like real-time chat application
-- Implemented real-time messaging with **<300ms latency**
-- Added online/offline user status
-- Integrated secure Firebase Authentication
-- Improved message delivery speed by approximately **30%**
+- Enhanced a real-time chat application with messaging and online/offline status.
+- Integrated Firebase Authentication and optimized message delivery.
 
----
+**Tech:** `Flutter` `Dart` `Firebase`
 
 ### 📱 Android Development Intern — OASIS Infobyte
+
 **Jul 2025 – Aug 2025**
 
-- Developed **2 Flutter applications**
-  - To-Do Application
-  - Quiz Application
-- Reduced average application load time by approximately **35%**
-- Implemented authentication and offline support for approximately **80% of data operations**
-- Designed responsive interfaces
-- Implemented secure login
-- Delivered assigned projects within deadlines
+- Developed Flutter To-Do and Quiz applications.
+- Implemented authentication, responsive UI, and offline support.
+
+**Tech:** `Flutter` `Dart` `Firebase`
 
 ---
 
-# 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications
 
-### 🥇 Gemini & Firebase Studio Buildathon
-**Winner — Individual Hackathon**
-
-Built an AI-powered mental wellness companion using **Gemini API and Firebase**.
-
-### ☁️ AWS Certified Cloud Practitioner
-**Feb 2025**
-
-### 💻 TCS CodeVita — Season 12
-
-Completed **TCS CodeVita Season 12**, demonstrating algorithmic problem-solving skills.
+- 🥇 **Gemini & Firebase Studio Buildathon** — Individual Hackathon Winner
+- ☁️ **AWS Certified Cloud Practitioner** — Feb 2025
+- 💻 **TCS CodeVita Season 12** — Competitive Programming
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sandeep-Sisodiya&show_icons=true&theme=radical&hide_border=true" />
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sandeep-Sisodiya&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Sisodiya&layout=compact&theme=radical&hide_border=true" />
+</td>
+<td width="50%" align="center" valign="top">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Sisodiya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Sisodiya&theme=radical&hide_border=true" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Sisodiya&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🎯 What I'm Focused On
+## 🎯 What I'm Focused On
 
-- Advanced Flutter development & architecture
-- Backend engineering
-- AI-powered applications
-- System design
-- DSA & problem solving
-- Docker & CI/CD
-- Building scalable production-ready systems
+- Advanced Flutter development and architecture
+- Backend engineering and system design
+- AI-powered applications and agentic workflows
+- Data structures and algorithms
+- Docker, CI/CD, and scalable systems
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-📧 **sandeepsisodiya16092004@gmail.com**
+### 💬 Let's build something impactful together!
 
-📱 **+91 6398320745**
+Always open to connecting with developers, collaborating on interesting projects, and exploring opportunities in mobile development, backend engineering, and AI.
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/sandeep-sisodiya-830114298/)**
-
-🐙 **[GitHub](https://github.com/Sandeep-Sisodiya)**
-
-</div>
-
----
-
-<div align="center">
+<p>
+  <a href="https://www.linkedin.com/in/sandeep-sisodiya-830114298/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sandeepsisodiya16092004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Sandeep-Sisodiya">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ### 💡 Build. Learn. Ship. Repeat.
 
-**Thanks for visiting my profile! 🚀**
-
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Explore my repositories and feel free to connect!
 
 </div>
+
+---
